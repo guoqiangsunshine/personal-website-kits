@@ -1,2 +1,2 @@
-# personal-website-kits
-personal-website-kits
+# website-notion-kit
+website-notion-notejs-kit
